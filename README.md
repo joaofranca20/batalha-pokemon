@@ -1,4 +1,4 @@
-# Batalha Pókemon
+# Batalha Pokémon
 
 Projeto de jogo em JAVA desenvolvido para realização de teste da faculdade.
 
